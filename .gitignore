@@ -3,3 +3,7 @@ models
 .ipynb_checkpoints
 bottlenecks
 .vscode
+*.zip
+*.tar.gz
+*.tgz
+cifar-10-batches-py
